@@ -33,5 +33,12 @@
 <br>
 
 ### 🐛 Stats :
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyrtw&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anthonyrtw&show_icons=true&theme=radical&rank_icon=github" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyrtw&layout=donut&hide=Jupyter%20Notebook&theme=radical" height="200">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anthonyrtw&theme=radical" height="200">
+</p>
 
