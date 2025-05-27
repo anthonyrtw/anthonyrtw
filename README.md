@@ -26,8 +26,6 @@
   <img src="https://github.com/Quandela/Perceval/blob/main/logo-perceval.png" title="Perceval" alt="Perceval " width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Qutip_logo.png" title="QuTiP" alt="QuTiP " width="60" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
 <br>
